@@ -1,0 +1,21 @@
+Bank Management System
+Instutite Records Management
+Employee Record System
+Library Management System
+
+
+
+
+structure > main
+structure >fun
+structure >pointer
+structure >array
+
+DMA > MAIN
+DMA > FUN
+{
+	malloc
+	calloc
+	realloc
+	free
+}
